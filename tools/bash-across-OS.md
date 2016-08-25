@@ -8,7 +8,7 @@ transfer protocols, install, update and and run tools, and bonus, makes you feel
 
 Windows has it's own command interface, **Command Prompt**. It uses a different sytanx
 and language, [batch](http://www.infionline.net/~wtnewton/batch/batguide.html).
-![alt text](https://github.com/andreakb/parallel-lines-workshop/src/images/cmdprompt.gif "command window")
+![alt text](https://github.com/andreakb/parallel-lines-workshop/raw/master/src/images/cmdprompt.gif "command window")
 
 You can use command prompt to run different programs, like rsync or [python programs](https://github.com/exponential-decay/droid-siegfried-sqlite-analysis-engine) (as long as [python is installed](http://www.howtogeek.com/197947/how-to-install-python-on-windows/)!), much like shell.
 
