@@ -13,15 +13,15 @@ and language, [batch](http://www.infionline.net/~wtnewton/batch/batguide.html).
 You can use command prompt to run different programs, like rsync or [python programs](https://github.com/exponential-decay/droid-siegfried-sqlite-analysis-engine) (as long as [python is installed](http://www.howtogeek.com/197947/how-to-install-python-on-windows/)!), much like shell.
 
 [**Cygwin**](https://cygwin.com/index.html) is a free program that provides a unix/bash enviroment on a windows OS. There are some [good](http://wiki.rootzwiki.com/Step_by_step_guide_how_to_install_cygwin) [guides](http://www.mcclean-cooper.com/valentino/cygwin_install/) for [installing](https://cygwin.com/cygwin-ug-net/ov-ex-win.html) cygwin.
-![alt text](https://github.com/andreakb/parallel-lines-workshop/src/images/cygwin.gif "cygwin")
+![alt text](https://github.com/andreakb/parallel-lines-workshop/raw/master/src/images/cygwin.gif "cygwin")
 
 If you run **Windows 10**, you can actually run linux applications directly on windows through a bash shell! It's not available automatically, you'll have to [install](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) it.
-![alt text](https://github.com/andreakb/parallel-lines-workshop/src/images/windows10bash.png)
+![alt text](https://github.com/andreakb/parallel-lines-workshop/raw/master/src/images/windows10bash.png)
 
 ## On Macs
 Apple's OS X *is* unix, and Terminal, a program to interact with your system in a bash shell is built into your Mac. You'll find Terminal in your if you go to the utilities folder in the Applications directory. Clicking on the icon opens a terminal window and Bam! [Bash](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line) [away](http://www.imore.com/how-use-terminal-mac-when-you-have-no-idea-where-start)!
 
-![alt text](https://github.com/andreakb/parallel-lines-workshop/src/images/Mac-Terminal-icon.png "terminal")
+![alt text](https://github.com/andreakb/parallel-lines-workshop/raw/master/src/images/Mac-Terminal-icon.png "terminal")
 
 ## Virtual Machines
 
