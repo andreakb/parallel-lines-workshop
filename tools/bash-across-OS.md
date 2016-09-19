@@ -25,6 +25,12 @@ Apple's OS X *is* unix, and Terminal, a program to interact with your system in 
 
 ![alt text](https://github.com/andreakb/parallel-lines-workshop/raw/master/src/images/Mac-Terminal-icon.png "terminal")
 
+You will probably need to download something called [Xcode command line tools](https://itunes.apple.com/us/app/xcode/id497799835) to run a lot of of commonly used tools and useful commands that are usually part of of default linux installations.
+
+Check if the tools are already installed by typing `xcode-select -p` into your terminal. If you see something like: `/Applications/Xcode.app/Contents/Developer`, then the full package is already installed.
+
+If not, you'll need to install the tools. To do this, type the command `xcode-select --install` into your terminal. This will cause a software update window to popup, prompting you to install the Xcode command line tools. Click Install. After the the installation completes, type `xcode-select -p` into your terminal again to check that the command line tools installed. To make extra sure, type something like `gcc --version` into your terminal. gcc is one of the tools that are installed with the command line tool package, so this command should return version information about gcc.
+
 ## Virtual Machines
 
 Virtual Machines (VMs) allow you to run any operation system you want on your computer. Working in the government, running my favorite linux distro in a program called VMWare is my prefered way to work. Also, the VM uses Network settings
