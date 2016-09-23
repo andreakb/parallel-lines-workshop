@@ -1,6 +1,6 @@
 ﻿![image](src/images/archives-nz-logo.png)
 
-#ASA Parallel Lines Preview Workshop
+#ASA Parallel Lines Workshop Preview
 *Date: 2016-09-28, 1400-1700 hours*
 
 ##Processing born-digital collections and what to do when digital objects prove to be problematic? 
@@ -8,7 +8,7 @@ Institutions are beginning to develop different goals to measure the success of 
 
 ####Key Words: 
 
-*#*RoguesGallery, #RegisterOfTechnicalPractice, #Triage, #ArtOfTheArchivist, #DigitalPreservation, #Tools, #Community
+*#RoguesGallery*, *#RegisterOfTechnicalPractice*, *#Triage*, *#ArtOfTheArchivist*, *#DigitalPreservation*, *#Tools*, *#Community*
 
 ##Today's Schedule
 
