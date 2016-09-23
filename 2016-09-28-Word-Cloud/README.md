@@ -2,4 +2,4 @@
 
 ![image](src/images/workshop-goals-wordcloud.png)
 
-* Via: http://tagcrowd.com/
+*Via: http://tagcrowd.com/*
