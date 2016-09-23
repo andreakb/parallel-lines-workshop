@@ -25,16 +25,16 @@ material over time, for your organisation and the community.
 
 ####Key Words: 
 
-#RoguesGallery, #RegisterOfTechnicalPractice, #Triage, #ArtOfTheArchivist, 
-#DigitalPreservation, #Tools, #Community
+ #RoguesGallery, #RegisterOfTechnicalPractice, #Triage, #ArtOfTheArchivist, 
+ #DigitalPreservation, #Tools, #Community
 
 ##Today's Schedule
 
 *1400-1405: Workshop Introduction*
 
 *1405-1415: Progress report (Talei Masters)*
-
 * Building the capability to accept born-digital transfers
+
 *1415-1420: ASA Survey Results*
 * What are *they* expecting from this?
 
@@ -44,11 +44,14 @@ material over time, for your organisation and the community.
 *1455-1510: Tea and Coffee Break*
 
 *1510-1555: Rsync YouSync We All Sync (Andrea K. Byrne)*
+* Core tools in our developing workflows...
 
 *1555-1600: Rest Break*
 
 *1600-1640: Pragmatic development of capability (Ross Spencer)*
+* Building capability step-by-step, problem-by-problem... 
 
 *1640-1700: What comes next? + Discussion*
+* Open discussion, additional questions, and an opportunity to connect with others
 
 *1700: Outro and Thank you*
