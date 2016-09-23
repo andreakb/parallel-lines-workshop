@@ -8,7 +8,8 @@ Institutions are beginning to develop different goals to measure the success of 
 
 ####Key Words: 
 
-&nbsp; #RoguesGallery, #RegisterOfTechnicalPractice, #Triage, #ArtOfTheArchivist, #DigitalPreservation, #Tools, #Community
+&nbsp; #RoguesGallery, #RegisterOfTechnicalPractice, #Triage, 
+&nbsp; #ArtOfTheArchivist, #DigitalPreservation, #Tools, #Community
 
 ##Today's Schedule
 
