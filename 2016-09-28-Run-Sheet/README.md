@@ -30,7 +30,7 @@ Institutions are beginning to develop different goals to measure the success of 
 
 *1555-1600: Rest Break*
 
-*1600-1640: Pragmatic development of capability (Ross Spencer)*
+*1600-1640: Preservation Capability Miscellany (Ross Spencer)*
 * Building capability step-by-step, problem-by-problem... 
 
 *1640-1700: What comes next? + Discussion*
