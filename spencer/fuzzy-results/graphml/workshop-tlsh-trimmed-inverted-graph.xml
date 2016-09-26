@@ -1,0 +1,1294 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="/workshop-files//Otago Heritage Seminar 10Oct02.doc" />
+    <node id="/workshop-files//Bike regs.doc" />
+    <node id="/workshop-files//aircare 23nov2005.doc" />
+    <node id="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" />
+    <node id="/workshop-files//taiwan national day.doc" />
+    <node id="/workshop-files//aircare 24nov2005.doc" />
+    <node id="/workshop-files//Sargent gallery.doc" />
+    <node id="/workshop-files//dhb changes.doc" />
+    <node id="/workshop-files//Auckland roading projects start 21Nov03.doc" />
+    <node id="/workshop-files//key reaction.doc" />
+    <node id="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" />
+    <node id="/workshop-files//election date.doc" />
+    <node id="/workshop-files//NZ music a hit in New Yorkl.doc" />
+    <node id="/workshop-files//Suter Art Gallery .doc" />
+    <node id="/workshop-files//Arts Pasifika Awards 2007 .doc" />
+    <node id="/workshop-files//080507 - new prison welcomed.doc" />
+    <node id="/workshop-files//te papa 05.doc" />
+    <node id="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" />
+    <node id="/workshop-files//air nz future.doc" />
+    <node id="/workshop-files//mccarthyism.doc" />
+    <node id="/workshop-files//kiwisaver amendment.doc" />
+    <node id="/workshop-files//dhb changes draft.doc" />
+    <node id="/workshop-files//Tui NZ music awards 10May02.doc" />
+    <node id="/workshop-files//zero tertiary fees.doc" />
+    <node id="/workshop-files//stalactites.doc" />
+    <node id="/workshop-files//Sarjeant gallery.doc" />
+    <node id="/workshop-files//supreme court.doc" />
+    <node id="/workshop-files//Geographical Indications 04.DOC" />
+    <node id="/workshop-files//belgrave.doc" />
+    <node id="/workshop-files//Backup of Ruataniwha speech 2.wbk" />
+    <node id="/workshop-files//NZSafetyAwards15Aug.doc" />
+    <node id="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc" />
+    <node id="/workshop-files//Grey Power Manawatu 15 July.doc" />
+    <node id="/workshop-files//ACCSafetyAwards15Aug.doc" />
+    <node id="/workshop-files//New NZSO CEO 8May02.doc" />
+    <node id="/workshop-files//NZ Music Month quiz answers 2006.doc" />
+    <node id="/workshop-files//Waitangi day Atawhai opening.doc" />
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.7836</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.262</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//aircare 23nov2005.doc">
+      <data key="d0">0.6014</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//taiwan national day.doc">
+      <data key="d0">0.2711</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//aircare 24nov2005.doc">
+      <data key="d0">0.5923</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//Sargent gallery.doc">
+      <data key="d0">0.5353</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//dhb changes.doc">
+      <data key="d0">0.2027</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//Auckland roading projects start 21Nov03.doc">
+      <data key="d0">0.5239</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//key reaction.doc">
+      <data key="d0">0.0911</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk">
+      <data key="d0">0.0843</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//election date.doc">
+      <data key="d0">0.2415</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//NZ music a hit in New Yorkl.doc">
+      <data key="d0">0.6014</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//te papa 05.doc">
+      <data key="d0">0.5125</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc">
+      <data key="d0">0.0569</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.3736</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.1185</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.246</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.0866</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.5991</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.2893</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.2574</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.6036</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.3622</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.0866</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.262</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.6059</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//Bike regs.doc">
+      <data key="d0">0.5809</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.5968</data>
+    </edge>
+    <edge source="/workshop-files//Otago Heritage Seminar 10Oct02.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.5809</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.8838</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//Auckland roading projects start 21Nov03.doc">
+      <data key="d0">0.8519</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.467</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.7472</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.4806</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.8884</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//NZ music a hit in New Yorkl.doc">
+      <data key="d0">0.7768</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//aircare 23nov2005.doc">
+      <data key="d0">0.6993</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.8907</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//taiwan national day.doc">
+      <data key="d0">0.0251</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//aircare 24nov2005.doc">
+      <data key="d0">0.8087</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.8724</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.8747</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//Sargent gallery.doc">
+      <data key="d0">0.8565</data>
+    </edge>
+    <edge source="/workshop-files//Bike regs.doc" target="/workshop-files//te papa 05.doc">
+      <data key="d0">0.7175</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//taiwan national day.doc">
+      <data key="d0">0.1481</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//aircare 24nov2005.doc">
+      <data key="d0">0.9932</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//Sargent gallery.doc">
+      <data key="d0">0.6743</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//dhb changes.doc">
+      <data key="d0">0.1185</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//Auckland roading projects start 21Nov03.doc">
+      <data key="d0">0.6856</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//election date.doc">
+      <data key="d0">0.1412</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//NZ music a hit in New Yorkl.doc">
+      <data key="d0">0.7836</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//te papa 05.doc">
+      <data key="d0">0.6788</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.4601</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.1458</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.1595</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.7403</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.1458</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.1435</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.7221</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.5057</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.7289</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.164</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.8132</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.7813</data>
+    </edge>
+    <edge source="/workshop-files//aircare 23nov2005.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.713</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//key reaction.doc">
+      <data key="d0">0.0683</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk">
+      <data key="d0">0.123</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc">
+      <data key="d0">0.2779</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.0911</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.344</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//Suter Art Gallery .doc">
+      <data key="d0">0.3394</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.3189</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.2346</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//080507 - new prison welcomed.doc">
+      <data key="d0">0.9681</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.1412</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//Arts Pasifika Awards 2007 .doc">
+      <data key="d0">0.4419</data>
+    </edge>
+    <edge source="/workshop-files//081308 - Study shows, auckland packed with entrepreneurs.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.3781</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.9818</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//aircare 24nov2005.doc">
+      <data key="d0">0.1048</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Sargent gallery.doc">
+      <data key="d0">0.0296</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//dhb changes.doc">
+      <data key="d0">0.9658</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Auckland roading projects start 21Nov03.doc">
+      <data key="d0">0.0683</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//key reaction.doc">
+      <data key="d0">0.5103</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk">
+      <data key="d0">0.4784</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//election date.doc">
+      <data key="d0">0.9704</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//NZ music a hit in New Yorkl.doc">
+      <data key="d0">0.1367</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Suter Art Gallery .doc">
+      <data key="d0">0.1253</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Arts Pasifika Awards 2007 .doc">
+      <data key="d0">0.0774</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//te papa 05.doc">
+      <data key="d0">0.1185</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc">
+      <data key="d0">0.4396</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.4761</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.959</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.0342</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.9522</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.9704</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.0205</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.1595</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.9863</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.0023</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.0797</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.1139</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.4328</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.1093</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.5308</data>
+    </edge>
+    <edge source="/workshop-files//taiwan national day.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.1207</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//Sargent gallery.doc">
+      <data key="d0">0.7153</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//dhb changes.doc">
+      <data key="d0">0.0456</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//Auckland roading projects start 21Nov03.doc">
+      <data key="d0">0.7472</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//election date.doc">
+      <data key="d0">0.0797</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//NZ music a hit in New Yorkl.doc">
+      <data key="d0">0.8132</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//te papa 05.doc">
+      <data key="d0">0.672</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.4305</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.0797</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.0888</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.8132</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.0752</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.0774</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.7608</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.4761</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.7153</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.0979</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.8588</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.8337</data>
+    </edge>
+    <edge source="/workshop-files//aircare 24nov2005.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.7859</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.8428</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//Auckland roading projects start 21Nov03.doc">
+      <data key="d0">0.9089</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.5103</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//key reaction.doc">
+      <data key="d0">0.0683</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.7198</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.508</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.0524</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.9932</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//NZ music a hit in New Yorkl.doc">
+      <data key="d0">0.6856</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.8519</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.8337</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.877</data>
+    </edge>
+    <edge source="/workshop-files//Sargent gallery.doc" target="/workshop-files//te papa 05.doc">
+      <data key="d0">0.615</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.9932</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//Auckland roading projects start 21Nov03.doc">
+      <data key="d0">0.0091</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//key reaction.doc">
+      <data key="d0">0.5604</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk">
+      <data key="d0">0.5034</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//NZ music a hit in New Yorkl.doc">
+      <data key="d0">0.0752</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//Suter Art Gallery .doc">
+      <data key="d0">0.1185</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//Arts Pasifika Awards 2007 .doc">
+      <data key="d0">0.0319</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//te papa 05.doc">
+      <data key="d0">0.0752</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc">
+      <data key="d0">0.4556</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.0205</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.5399</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.9658</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//election date.doc">
+      <data key="d0">0.9681</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.9453</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.9681</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.0296</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.1002</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.9795</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.0752</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.0114</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.1162</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.4396</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.041</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.5285</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.1367</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.8679</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.4692</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//key reaction.doc">
+      <data key="d0">0.0797</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.697</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.4875</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.0706</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.0023</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.9021</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//NZ music a hit in New Yorkl.doc">
+      <data key="d0">0.713</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.861</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.0</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.8497</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.8861</data>
+    </edge>
+    <edge source="/workshop-files//Auckland roading projects start 21Nov03.doc" target="/workshop-files//te papa 05.doc">
+      <data key="d0">0.6059</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.492</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk">
+      <data key="d0">0.4237</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//080507 - new prison welcomed.doc">
+      <data key="d0">0.0706</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc">
+      <data key="d0">0.3166</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.0478</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">1.0</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.4806</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//election date.doc">
+      <data key="d0">0.4738</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.508</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.4715</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.0456</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.0387</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.0524</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.4829</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.0046</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.0046</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.2665</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.0114</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.385</data>
+    </edge>
+    <edge source="/workshop-files//key reaction.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.0251</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//election date.doc">
+      <data key="d0">0.4601</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//Suter Art Gallery .doc">
+      <data key="d0">0.2528</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//Arts Pasifika Awards 2007 .doc">
+      <data key="d0">0.2005</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//080507 - new prison welcomed.doc">
+      <data key="d0">0.1162</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc">
+      <data key="d0">0.5239</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.3713</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.4624</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.4624</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.5103</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.4692</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.0433</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.467</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.303</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.3075</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.4989</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.9977</data>
+    </edge>
+    <edge source="/workshop-files//Backup of NZ Music Month quiz answers 2006.wbk" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.303</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//NZ music a hit in New Yorkl.doc">
+      <data key="d0">0.0934</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//Suter Art Gallery .doc">
+      <data key="d0">0.0957</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//Arts Pasifika Awards 2007 .doc">
+      <data key="d0">0.0569</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//te papa 05.doc">
+      <data key="d0">0.1116</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc">
+      <data key="d0">0.4214</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.0091</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.467</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.9841</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.9841</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.9453</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.9863</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.1321</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.9795</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.0706</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.4055</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.0114</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.5011</data>
+    </edge>
+    <edge source="/workshop-files//election date.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.1071</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//te papa 05.doc">
+      <data key="d0">0.7995</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.5604</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.1185</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.8087</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.1207</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.1207</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.7335</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.574</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.6879</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.1207</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.7995</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.1253</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.7677</data>
+    </edge>
+    <edge source="/workshop-files//NZ music a hit in New Yorkl.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.7813</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.1526</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.1025</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//Arts Pasifika Awards 2007 .doc">
+      <data key="d0">0.9112</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc">
+      <data key="d0">0.3872</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.123</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.8314</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.9453</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.1002</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.1276</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//080507 - new prison welcomed.doc">
+      <data key="d0">0.3349</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.3121</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.9248</data>
+    </edge>
+    <edge source="/workshop-files//Suter Art Gallery .doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.41</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.1185</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.0638</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc">
+      <data key="d0">0.3417</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.0729</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.7267</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.8497</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.0615</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.0752</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//080507 - new prison welcomed.doc">
+      <data key="d0">0.4305</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.2642</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.8815</data>
+    </edge>
+    <edge source="/workshop-files//Arts Pasifika Awards 2007 .doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.3371</data>
+    </edge>
+    <edge source="/workshop-files//080507 - new prison welcomed.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.0023</data>
+    </edge>
+    <edge source="/workshop-files//080507 - new prison welcomed.doc" target="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc">
+      <data key="d0">0.2893</data>
+    </edge>
+    <edge source="/workshop-files//080507 - new prison welcomed.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.0934</data>
+    </edge>
+    <edge source="/workshop-files//080507 - new prison welcomed.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.3508</data>
+    </edge>
+    <edge source="/workshop-files//080507 - new prison welcomed.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.3349</data>
+    </edge>
+    <edge source="/workshop-files//080507 - new prison welcomed.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.2506</data>
+    </edge>
+    <edge source="/workshop-files//080507 - new prison welcomed.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.1298</data>
+    </edge>
+    <edge source="/workshop-files//080507 - new prison welcomed.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.3759</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//air nz future.doc">
+      <data key="d0">0.5695</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.1093</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.738</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.1071</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.1025</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.6287</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.6105</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.6401</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.1116</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.6629</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.123</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.6538</data>
+    </edge>
+    <edge source="/workshop-files//te papa 05.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.7198</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.508</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.4214</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.287</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.4305</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.9613</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.3872</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.4055</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.3964</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.5285</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.451</data>
+    </edge>
+    <edge source="/workshop-files//OSC brief copingwithoutcar 7Jul05.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.4305</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//mccarthyism.doc">
+      <data key="d0">0.0342</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.0159</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.0273</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.5148</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.0159</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.0205</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.426</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.9226</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.4009</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.0296</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.4487</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.5057</data>
+    </edge>
+    <edge source="/workshop-files//air nz future.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.5581</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.4897</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//kiwisaver amendment.doc">
+      <data key="d0">0.4738</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.5057</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.4647</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.0273</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.0433</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.4761</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.2415</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.0319</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.3554</data>
+    </edge>
+    <edge source="/workshop-files//mccarthyism.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.0159</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//dhb changes draft.doc">
+      <data key="d0">0.9727</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.0159</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.9431</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.9932</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.0137</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.1344</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.9727</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.0023</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.0752</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.4032</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.0319</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.5034</data>
+    </edge>
+    <edge source="/workshop-files//kiwisaver amendment.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.1025</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//Tui NZ music awards 10May02.doc">
+      <data key="d0">0.0251</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//zero tertiary fees.doc">
+      <data key="d0">0.9522</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.9886</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.0342</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.1321</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.9818</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.0182</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.0068</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.0934</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.41</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.0364</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.4943</data>
+    </edge>
+    <edge source="/workshop-files//dhb changes draft.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.1321</data>
+    </edge>
+    <edge source="/workshop-files//Tui NZ music awards 10May02.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.0068</data>
+    </edge>
+    <edge source="/workshop-files//Tui NZ music awards 10May02.doc" target="/workshop-files//Sarjeant gallery.doc">
+      <data key="d0">0.8656</data>
+    </edge>
+    <edge source="/workshop-files//Tui NZ music awards 10May02.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.5125</data>
+    </edge>
+    <edge source="/workshop-files//Tui NZ music awards 10May02.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.7289</data>
+    </edge>
+    <edge source="/workshop-files//Tui NZ music awards 10May02.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.0319</data>
+    </edge>
+    <edge source="/workshop-files//Tui NZ music awards 10May02.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.8519</data>
+    </edge>
+    <edge source="/workshop-files//Tui NZ music awards 10May02.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.8223</data>
+    </edge>
+    <edge source="/workshop-files//Tui NZ music awards 10May02.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.9499</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//stalactites.doc">
+      <data key="d0">0.959</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.0228</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.1595</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.9431</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.0273</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.0091</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.1002</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.4875</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.0387</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.5376</data>
+    </edge>
+    <edge source="/workshop-files//zero tertiary fees.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.1481</data>
+    </edge>
+    <edge source="/workshop-files//stalactites.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.0091</data>
+    </edge>
+    <edge source="/workshop-files//stalactites.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.1207</data>
+    </edge>
+    <edge source="/workshop-files//stalactites.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.9841</data>
+    </edge>
+    <edge source="/workshop-files//stalactites.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.0</data>
+    </edge>
+    <edge source="/workshop-files//stalactites.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.082</data>
+    </edge>
+    <edge source="/workshop-files//stalactites.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.41</data>
+    </edge>
+    <edge source="/workshop-files//stalactites.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.0296</data>
+    </edge>
+    <edge source="/workshop-files//stalactites.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.5057</data>
+    </edge>
+    <edge source="/workshop-files//stalactites.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.1093</data>
+    </edge>
+    <edge source="/workshop-files//Sarjeant gallery.doc" target="/workshop-files//supreme court.doc">
+      <data key="d0">0.5125</data>
+    </edge>
+    <edge source="/workshop-files//Sarjeant gallery.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.7699</data>
+    </edge>
+    <edge source="/workshop-files//Sarjeant gallery.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.8724</data>
+    </edge>
+    <edge source="/workshop-files//Sarjeant gallery.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.8588</data>
+    </edge>
+    <edge source="/workshop-files//Sarjeant gallery.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.8907</data>
+    </edge>
+    <edge source="/workshop-files//supreme court.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.4214</data>
+    </edge>
+    <edge source="/workshop-files//supreme court.doc" target="/workshop-files//Geographical Indications 04.DOC">
+      <data key="d0">0.4419</data>
+    </edge>
+    <edge source="/workshop-files//supreme court.doc" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.0364</data>
+    </edge>
+    <edge source="/workshop-files//supreme court.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.4374</data>
+    </edge>
+    <edge source="/workshop-files//supreme court.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.5581</data>
+    </edge>
+    <edge source="/workshop-files//Geographical Indications 04.DOC" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.7494</data>
+    </edge>
+    <edge source="/workshop-files//Geographical Indications 04.DOC" target="/workshop-files//belgrave.doc">
+      <data key="d0">0.1503</data>
+    </edge>
+    <edge source="/workshop-files//Geographical Indications 04.DOC" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.7654</data>
+    </edge>
+    <edge source="/workshop-files//Geographical Indications 04.DOC" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.0205</data>
+    </edge>
+    <edge source="/workshop-files//Geographical Indications 04.DOC" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.7426</data>
+    </edge>
+    <edge source="/workshop-files//Geographical Indications 04.DOC" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.041</data>
+    </edge>
+    <edge source="/workshop-files//belgrave.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.5034</data>
+    </edge>
+    <edge source="/workshop-files//belgrave.doc" target="/workshop-files//Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.0091</data>
+    </edge>
+    <edge source="/workshop-files//belgrave.doc" target="/workshop-files//NZSafetyAwards15Aug.doc">
+      <data key="d0">0.0114</data>
+    </edge>
+    <edge source="/workshop-files//belgrave.doc" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.0911</data>
+    </edge>
+    <edge source="/workshop-files//belgrave.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.4055</data>
+    </edge>
+    <edge source="/workshop-files//belgrave.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.0456</data>
+    </edge>
+    <edge source="/workshop-files//belgrave.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.0114</data>
+    </edge>
+    <edge source="/workshop-files//belgrave.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.1276</data>
+    </edge>
+    <edge source="/workshop-files//Backup of Ruataniwha speech 2.wbk" target="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.8861</data>
+    </edge>
+    <edge source="/workshop-files//Backup of Ruataniwha speech 2.wbk" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.2665</data>
+    </edge>
+    <edge source="/workshop-files//Backup of Ruataniwha speech 2.wbk" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.3508</data>
+    </edge>
+    <edge source="/workshop-files//Backup of Ruataniwha speech 2.wbk" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.8314</data>
+    </edge>
+    <edge source="/workshop-files//NZSafetyAwards15Aug.doc" target="/workshop-files//ACCSafetyAwards15Aug.doc">
+      <data key="d0">0.9886</data>
+    </edge>
+    <edge source="/workshop-files//NZSafetyAwards15Aug.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.877</data>
+    </edge>
+    <edge source="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.3257</data>
+    </edge>
+    <edge source="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.9248</data>
+    </edge>
+    <edge source="/workshop-files//Speech notes - Fishermen's Daughters 2008.doc" target="/workshop-files//Grey Power Manawatu 15 July.doc">
+      <data key="d0">0.3781</data>
+    </edge>
+    <edge source="/workshop-files//Grey Power Manawatu 15 July.doc" target="/workshop-files//NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.5148</data>
+    </edge>
+    <edge source="/workshop-files//Grey Power Manawatu 15 July.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.4305</data>
+    </edge>
+    <edge source="/workshop-files//ACCSafetyAwards15Aug.doc" target="/workshop-files//New NZSO CEO 8May02.doc">
+      <data key="d0">0.8383</data>
+    </edge>
+    <edge source="/workshop-files//NZ Music Month quiz answers 2006.doc" target="/workshop-files//Waitangi day Atawhai opening.doc">
+      <data key="d0">0.344</data>
+    </edge>
+  </graph>
+</graphml>
