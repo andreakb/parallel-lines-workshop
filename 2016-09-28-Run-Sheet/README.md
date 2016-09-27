@@ -14,14 +14,14 @@ Institutions are beginning to develop different goals to measure the success of 
 
 *1400-1405: Workshop Introduction*
 
-*1405-1415: Progress report (Talei Masters)*
-* Building the capability to accept born-digital transfers
-
-*1415-1420: ASA Survey Results*
+*1405-1410: ASA Survey Results*
 * What are *they* expecting from this?
 
+*1410-1420: Progress report (Talei Masters)*
+* Building the capability to accept born-digital transfers
+
 *1420-1455: Introduction (Jan Hutař)*
-* What, What, Why... and a little bit of how?
+* Archives NZ - Swimming Zeroes and Ones
 
 *1455-1510: Tea and Coffee Break*
 
