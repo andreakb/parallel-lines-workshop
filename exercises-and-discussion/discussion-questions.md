@@ -18,4 +18,6 @@
 
 9. What is the best place to start when beginning to work with born-digital records and digital preservation?
 
-10. What are some of your successes and failures and what did you learn from them?  
+10. What are some major challanges that we haven't talked about yet that we encounter when processing born-digital records and doing digital preservation? How can we meet these challanges?
+
+11. What are some of your successes and failures and what did you learn from them?  

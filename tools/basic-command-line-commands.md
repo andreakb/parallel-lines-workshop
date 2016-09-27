@@ -1,5 +1,7 @@
 # Basic Command Line Commands
-This is an overview of some basic commands you can use in the Linux, OS X (on mac) or cygwin terminal. Of course, there is a lot more information than what is written below. Some people have written up in depth tutorials for, say grep! You can learn more about all of these, and learn different options by typing `man <command>` into your shell. When using these commands on your own, don't put `<>` around your input.
+This is an overview of some basic commands you can use in the Linux, OS X (on mac) or cygwin terminal. Of course, there is a lot more information than what is written below. Some people have written up in depth tutorials for, say grep! You can learn more about all of these by typing `man <command>` into your shell. This opens up a tool's man page, or manual. Man pages are **ESSENTIAL**. They tell you everything you need to know about a tool's purpose, how to run the tool, and the different options you can use. Alway read the man page. With all these tools, you are giving your computer specific instructions about what to do, which can feel quite powerful! Remember: when using these commands, your computer is only doing what you tell it to do. 
+
+Also, when using these commands on your own, don't put `<>` around your input.
 
 ### **pwd** - prints the full name name of the current directory
 usage: `pwd`
