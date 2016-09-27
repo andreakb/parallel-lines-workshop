@@ -1,5 +1,5 @@
 A corpus of files from Archives New Zealand's E4 transfer. These files can be found in
-ANZ's holdings by searching [Archway](https://archway.archives.govt.nz/) for series number 7505. Also included are outputs from the [droid analysis tool](https://github.com/exponential-decay/droid-siegfried-sqlite-analysis-engine)
+ANZ's holdings by searching [Archway](https://archway.archives.govt.nz/CallSeriesAdvancedSearch.do) for series code 7505. Also included are outputs from the [droid analysis tool](https://github.com/exponential-decay/droid-siegfried-sqlite-analysis-engine)
 Ross Spencer developed that we use at ANZ.
 
 The list of files contained in the corups follows:
