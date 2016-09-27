@@ -1,6 +1,6 @@
 ## Command Line Basics Exercise
 
-Using the [basic command line options](https://github.com/andreakb/parallel-lines-workshop/raw/master/tools/basic-command-line-commands.md) guide, try and complete the following tasks.
+Using the [basic command line options](https://github.com/andreakb/parallel-lines-workshop/blob/master/tools/basic-command-line-commands.md) guide, try and complete the following tasks.
 
 1. Navigate to your home directory (hint: cd and pwd)
 
