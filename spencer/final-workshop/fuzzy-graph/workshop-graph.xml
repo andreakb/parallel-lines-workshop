@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="workshop/Arts Pasifika Awards 2007 .doc" />
+    <node id="workshop/Suter Art Gallery .doc" />
+    <node id="workshop/stalactites.doc" />
+    <node id="workshop/NZ Music Month quiz answers 2006.doc" />
+    <node id="workshop/Backup of Ruataniwha speech 2.wbk" />
+    <node id="workshop/zero tertiary fees.doc" />
+    <node id="workshop/Speech notes - Fishermen's Daughters 2008.doc" />
+    <node id="workshop/Waitangi day Atawhai opening.doc" />
+    <node id="workshop/dhb changes draft.doc" />
+    <node id="workshop/taiwan national day.doc" />
+    <node id="workshop/kiwisaver amendment.doc" />
+    <edge source="workshop/Arts Pasifika Awards 2007 .doc" target="workshop/Waitangi day Atawhai opening.doc">
+      <data key="d0">0.94</data>
+    </edge>
+    <edge source="workshop/Arts Pasifika Awards 2007 .doc" target="workshop/Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="workshop/Arts Pasifika Awards 2007 .doc" target="workshop/Suter Art Gallery .doc">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="workshop/Arts Pasifika Awards 2007 .doc" target="workshop/Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="workshop/Suter Art Gallery .doc" target="workshop/Backup of Ruataniwha speech 2.wbk">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="workshop/Suter Art Gallery .doc" target="workshop/Waitangi day Atawhai opening.doc">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="workshop/Suter Art Gallery .doc" target="workshop/Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="workshop/stalactites.doc" target="workshop/dhb changes draft.doc">
+      <data key="d0">0.99</data>
+    </edge>
+    <edge source="workshop/stalactites.doc" target="workshop/taiwan national day.doc">
+      <data key="d0">0.97</data>
+    </edge>
+    <edge source="workshop/stalactites.doc" target="workshop/kiwisaver amendment.doc">
+      <data key="d0">0.97</data>
+    </edge>
+    <edge source="workshop/stalactites.doc" target="workshop/zero tertiary fees.doc">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="workshop/stalactites.doc" target="workshop/NZ Music Month quiz answers 2006.doc">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="workshop/NZ Music Month quiz answers 2006.doc" target="workshop/dhb changes draft.doc">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="workshop/NZ Music Month quiz answers 2006.doc" target="workshop/taiwan national day.doc">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="workshop/NZ Music Month quiz answers 2006.doc" target="workshop/kiwisaver amendment.doc">
+      <data key="d0">0.72</data>
+    </edge>
+    <edge source="workshop/NZ Music Month quiz answers 2006.doc" target="workshop/zero tertiary fees.doc">
+      <data key="d0">0.71</data>
+    </edge>
+    <edge source="workshop/Backup of Ruataniwha speech 2.wbk" target="workshop/Waitangi day Atawhai opening.doc">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="workshop/Backup of Ruataniwha speech 2.wbk" target="workshop/Speech notes - Fishermen's Daughters 2008.doc">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="workshop/zero tertiary fees.doc" target="workshop/dhb changes draft.doc">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="workshop/zero tertiary fees.doc" target="workshop/taiwan national day.doc">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="workshop/zero tertiary fees.doc" target="workshop/kiwisaver amendment.doc">
+      <data key="d0">0.96</data>
+    </edge>
+    <edge source="workshop/Speech notes - Fishermen's Daughters 2008.doc" target="workshop/Waitangi day Atawhai opening.doc">
+      <data key="d0">0.93</data>
+    </edge>
+    <edge source="workshop/dhb changes draft.doc" target="workshop/kiwisaver amendment.doc">
+      <data key="d0">0.97</data>
+    </edge>
+    <edge source="workshop/taiwan national day.doc" target="workshop/kiwisaver amendment.doc">
+      <data key="d0">0.97</data>
+    </edge>
+  </graph>
+</graphml>
