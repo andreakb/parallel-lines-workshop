@@ -13,7 +13,7 @@ to add to your arsenal when processing digital records!
 ### **On Windows**
 
 There are various tools for Windows that use Rsync algorithms and provide graphical interfaces (aka [GUIs](http://www.linfo.org/gui.html))  
-[DeltaCopy](https://www.google.com) is a Windows wrapper for Rsync that has a GUI, but you can also
+[DeltaCopy](http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp) is a Windows wrapper for Rsync that has a GUI, but you can also
 use a command line interface for further customization of your Rsync commands. After you download and install DeltaCopy,
 you'll see an application called rsync.exe in the DeltaCopy folder
 ![alt text](https://github.com/andreakb/parallel-lines-workshop/raw/master/src/images/deltacopy.PNG "deltaCopy")
