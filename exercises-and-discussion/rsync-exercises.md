@@ -4,7 +4,7 @@ If you don't already have Rysnc installed, follow the instructions at the top of
 
 If you need a corpus of files to play with for these exercises, use our set of files from one of our born-digital accessions, E4 that we made available [here](https://github.com/andreakb/parallel-lines-workshop/tree/master/corpus). You can find and access all these files in our holdings in [Archway](https://archway.archives.govt.nz/CallSeriesAdvancedSearch.do) by doing an advancded search for series code 7505.
 
-A note about modification dates: They are tricky beasts to maintain  over web platforms! The modification dates you'll see after downloading the files from github reflect the date the files were uploaded to github, not the actual modification dates.
+A note about modification dates: They are tricky beasts to maintain  over web platforms! The modification dates you'll see after downloading the files from github reflect the date the files were downloaded onto your computer, not the actual modification dates.
 
 1. Use Rsync to transfer the corpus files (and just the corpus files under the Peter Dunne -E4 folder ) from the parallel-lines-workshop folder to your home directory in a folder called  "Peter Dunne -E4"
 
