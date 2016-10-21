@@ -36,7 +36,7 @@ Rsync is already provided with OS X, but it may be an older version. Type
   Once Homebrew is installed, type
   ```
   brew tap homebrew/dupes
-brew install rsync
+  brew install rsync
 
 ```
 into your terminal and a new version of Rsync should install.
