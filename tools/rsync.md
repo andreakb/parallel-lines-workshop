@@ -26,7 +26,7 @@ Rsync is already provided with OS X, but it may be an older version. Type
 `rsync --version` into your terminal to check to see if your Rsync is up-to-date (the latest version is
   3.1.2). To update Rsync, install [homebrew](http://brew.sh/), a package manager for OS X. You will need  xcode command line tools. Check if this is already install by typing `xcode-select -p` into your terminal. If the command returns something like `/Applications/Xcode.app/Contents/Developer`, then you're good to go. If not, either install xcode through the [iTunes store](https://itunes.apple.com/us/app/xcode/id497799835) or by typing `xcode-select --install` into your terminal and following the instructions from the prompt window.
 
-  To install howebrew , type
+  To install homebrew , type
   ```
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
