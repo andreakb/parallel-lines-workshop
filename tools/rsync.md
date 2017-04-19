@@ -90,6 +90,8 @@ These include system files like tmp files or null files.
 ### **v - increases verbosity**
 Rsync will print out the names of the files and directories it is copying to the screen as it's copying them, along with any error or info messages.
 
+Information on the command can also be found on [explainshell.com](https://explainshell.com/explain?cmd=+rsync+-rlptDv+%2Fmnt%2Flive%5C+transfers%5C+working%2Fdigital%5C+archaeology%2FPeter%5C+Dunne%5C+-%5C+E4+%2Fhome%2Fandrea%2FDocuments%2F)
+
 ## Test it out!
 
 To test how your Rsync command will work before actually copying files, you can use the **-n** option. This makes Rsync perform a trial run, and doesn't make any changes. Use this with the -v option (verbose) or -i option (creates an itemized list of changes being made to each file on the destination location) in order to see the actual results of the trial run.
